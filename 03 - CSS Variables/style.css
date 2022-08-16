@@ -11,7 +11,6 @@ img {
   filter: blur(var(--blur));
   max-width: 30%;
   height: auto;
-  filter: drop-shadow(.6rem .6rem .5rem rgba(0, 0, 0, 0.5));
 }
 
 .h1 {
@@ -28,6 +27,7 @@ body {
   font-family: 'helvetica neue', sans-serif;
   font-weight: 200;
   font-size: 50px;
+  filter: drop-shadow(.6rem .6rem .5rem rgba(0, 0, 0, 0.5));
 }
 
 .controls {
